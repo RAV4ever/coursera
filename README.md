@@ -1,2 +1,2 @@
-# coursera
-Portfolio showing work from my coursera courses.
+# Coursera
+Portfolio showing work from my Coursera courses.
